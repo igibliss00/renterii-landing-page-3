@@ -1,0 +1,24 @@
+.slide {
+    text-align: left;   
+    width: 40vw;
+    margin: 20px;
+    header {
+        font-size: 40px;
+        font-weight: 900;
+    }
+    .title {
+        font-size: 20px;
+        font-weight: 900;   
+        margin-bottom: -10px;     
+    }
+    .line {
+        width: 30vw;
+        border-bottom: 1px solid darkgrey;
+        align-self: flex-start;
+        margin: 10px 0;
+    }
+    p {
+        font-weight: normal;
+        font-size: 14px;
+    }
+}   

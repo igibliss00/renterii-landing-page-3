@@ -1,0 +1,26 @@
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    height: 10vh;
+
+    .logo {
+        height: 6vh;  
+        &:hover {
+            transform: scale(2); 
+        }      
+    }
+}
+
+// .menu {
+    
+           // &:hover {
+           //     transform: scale(2); 
+           // }
+    //    }

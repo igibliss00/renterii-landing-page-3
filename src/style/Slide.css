@@ -1,0 +1,20 @@
+.slide {
+  text-align: left;
+  width: 40vw;
+  margin: 20px; }
+  .slide header {
+    font-size: 40px;
+    font-weight: 900; }
+  .slide .title {
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: -10px; }
+  .slide .line {
+    width: 30vw;
+    border-bottom: 1px solid darkgrey;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+    margin: 10px 0; }
+  .slide p {
+    font-weight: normal;
+    font-size: 14px; }
