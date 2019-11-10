@@ -16,10 +16,11 @@
   -ms-flex-align: center;
   align-items: center;
   color: white;
-  height: 10vh; }
+  height: 10vh;
+  cursor: pointer; }
   .navbar .logo {
     height: 6vh; }
     .navbar .logo:hover {
-      -webkit-transform: scale(2);
-      -ms-transform: scale(2);
-      transform: scale(2); }
+      -webkit-transform: scale(1.5);
+      -ms-transform: scale(1.5);
+      transform: scale(1.5); }

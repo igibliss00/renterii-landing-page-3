@@ -18,3 +18,11 @@
   .slide p {
     font-weight: normal;
     font-size: 14px; }
+
+@media all and (max-width: 600px) and (min-width: 10px) {
+  .slide {
+    width: 50vw; }
+    .slide .title {
+      font-size: 15; }
+    .slide p {
+      font-size: 10; } }

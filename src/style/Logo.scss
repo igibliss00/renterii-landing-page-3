@@ -1,3 +1,11 @@
 .logo {
     align-self: center;
 }
+
+@media all and (max-width: 600px) and (min-width: 10px) {
+    .logo {
+        .renterii-logo {
+            width: 80vw;            
+        }
+    }   
+}

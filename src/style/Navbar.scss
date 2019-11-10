@@ -9,11 +9,11 @@
     align-items: center;
     color: white;
     height: 10vh;
-
+    cursor: pointer;
     .logo {
         height: 6vh;  
         &:hover {
-            transform: scale(2); 
+            transform: scale(1.5); 
         }      
     }
 }
